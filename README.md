@@ -1,5 +1,5 @@
 # Imit8 - A SocialFi dApp on Avalanche
-Built by [Tolga Cohce](github.com/tgcohce) and [Pravesh Mansharamani](https://github.com/Pravesh-mansharamani) for Avax MBC Hackathon
+Built by [Tolga Cohce](https://github.com/tgcohce) and [Pravesh Mansharamani](https://x.com/imthebigp) for Avax MBC Hackathon
 <div align="center">
     <a href="https://www.loom.com/share/5c4c813f9b7b4301beb090d4af0acf8b">
       <p>Imit8: Expressing Emotions through Emojis - Watch Demo</p>
